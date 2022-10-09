@@ -1,3 +1,3 @@
 clc; clear; close all;
 a = 5;
-b = a * 7;
+b = a * 8;
