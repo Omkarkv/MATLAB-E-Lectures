@@ -1,0 +1,6 @@
+rng(6)
+matigulation = rand(15, 7)
+mat = matigulation(:, 6)
+answer = sum(matigulation(:, 6),"all" )
+answer1 = sum(matigulation)
+answer2 = answer1(6)
