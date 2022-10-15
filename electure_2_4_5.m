@@ -1,4 +1,2 @@
-rng(9);
-first = randn(20, 70)
-
-sum(first(first >= 2))
+rng(10);
+first = randn(10000, 1)
